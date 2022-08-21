@@ -5,5 +5,19 @@ zip: github.com/gsalunke/gsalunke/archive/refs/heads/main.zip
 base: https://raw.githubusercontent.com/gsalunke/gsalunke/main
 
 -- fpm.dependency: fifthtry.github.io/doc-site as ds
+-- fpm.dependency: fifthtry.github.io/virgil-font
+-- fpm.dependency: fifthtry.github.io/bling as bling
+
+-- fpm.auto-import: gsalunke.github.io/gsalunke/FPM/config
+-- fpm.auto-import: bling/the-end
+-- fpm.auto-import: bling/divider
+
 
 -- fpm.auto-import: ds
+
+
+-- fpm.sitemap:
+
+# Home: index.html
+
+- Note the date: /note-the-date/
