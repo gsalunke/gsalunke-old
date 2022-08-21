@@ -19,5 +19,4 @@ base: https://raw.githubusercontent.com/gsalunke/gsalunke/main
 -- fpm.sitemap:
 
 # Home: index.html
-
-- Note the date: /note-the-date/
+# Note the date: /note-the-date/
