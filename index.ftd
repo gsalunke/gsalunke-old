@@ -13,6 +13,7 @@ being. I am from India and I love my country. I respect my culture and I respect
 
 -- ds.image: Ganesh S Salunke is not just a name
 src: $assets.files.static.gsalunke.png
+width: fill
 
 
 -- ftd.column:
