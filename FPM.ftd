@@ -4,7 +4,7 @@
 zip: github.com/gsalunke/gsalunke/archive/refs/heads/main.zip
 base: https://raw.githubusercontent.com/gsalunke/gsalunke/main
 
--- fpm.dependency: fifthtry.github.io/doc-site as ds
+-- fpm.dependency: fifthtry.github.io/dash-dash-ds as ds
 -- fpm.dependency: fifthtry.github.io/virgil-font
 -- fpm.dependency: fifthtry.github.io/bling as bling
 
