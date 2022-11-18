@@ -8,7 +8,7 @@ download-base-url: https://raw.githubusercontent.com/gsalunke/gsalunke/main
 -- fpm.dependency: fifthtry.github.io/virgil-font
 -- fpm.dependency: fifthtry.github.io/bling as bling
 
--- fpm.auto-import: gsalunke.github.io/gsalunke/FPM/config
+-- fpm.auto-import: ganeshsalunke.com/FPM/config
 -- fpm.auto-import: bling/the-end
 -- fpm.auto-import: bling/divider
 -- fpm.auto-import: ganeshsalunke.com/assets
