@@ -1,0 +1,11 @@
+-- import: gsalunke.github.io/gsalunke/blog-articles/category-2/sample-post-3
+
+-- ds.page:
+
+--- ds.posts:
+
+--- ds.featured-post:
+post-data: $sample-post-3.meta
+
+
+

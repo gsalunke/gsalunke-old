@@ -4,11 +4,17 @@
 zip: github.com/gsalunke/gsalunke/archive/refs/heads/main.zip
 download-base-url: https://raw.githubusercontent.com/gsalunke/gsalunke/main
 
--- fpm.dependency: fifthtry.github.io/doc-site as ds
+-- fpm.dependency: fifthtry.github.io/dash-dash-ds as ds
+-- fpm.dependency: fifthtry.github.io/chrome-book-cs as cs
 -- fpm.dependency: fifthtry.github.io/virgil-font
 -- fpm.dependency: fifthtry.github.io/bling as bling
+-- fpm.dependency: fifthtry.github.io/simple-dark-slides as slides
+-- fpm.dependency: fifthtry.github.io/slides as slide
 
--- fpm.auto-import: ganeshsalunke.com/FPM/config
+-- fpm.auto-import: cs
+-- fpm.auto-import: slides
+-- fpm.auto-import: slide
+-- fpm.auto-import: gsalunke.github.io/gsalunke/FPM/config
 -- fpm.auto-import: bling/the-end
 -- fpm.auto-import: bling/divider
 -- fpm.auto-import: ganeshsalunke.com/assets
@@ -20,4 +26,18 @@ download-base-url: https://raw.githubusercontent.com/gsalunke/gsalunke/main
 -- fpm.sitemap:
 
 # Home: index.html
-# Note the date: /note-the-date/
+
+# Blog: /featured-posts/
+
+## Posts: /featured-posts/
+
+- Random thoughts: /blog-articles/category-1/
+  - Note the date: /blog-articles/category-1/note-the-date/
+
+- Technology & Learning: /blog-articles/category-2/
+
+  - What are front-end technologies we have?: /blog-articles/category-2/sample-post-3/
+
+## Authors: /blog-authors/ganesh/
+
+- Ganesh S Salunke: /blog-authors/ganesh/
