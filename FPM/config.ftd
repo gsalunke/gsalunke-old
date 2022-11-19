@@ -1,7 +1,6 @@
 -- import: ds
 -- import: fifthtry.github.io/virgil-font/assets as virgil-assets
 -- import: fpm
--- import: cs
 
 -- fpm.font-copy: $virgil-assets.fonts.virgil
 
