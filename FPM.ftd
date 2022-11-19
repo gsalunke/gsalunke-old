@@ -34,9 +34,6 @@ download-base-url: https://raw.githubusercontent.com/gsalunke/gsalunke/main
 - Random thoughts: /blog-articles/category-1/
   - Note the date: /blog-articles/category-1/note-the-date/
 
-- Technology & Learning: /blog-articles/category-2/
-
-  - What are front-end technologies we have?: /blog-articles/category-2/sample-post-3/
 
 ## Authors: /blog-authors/ganesh/
 
