@@ -27,9 +27,9 @@ download-base-url: https://raw.githubusercontent.com/gsalunke/gsalunke/main
 
 # Home: index.html
 
-# Blog: /featured-posts/
+# Blog: index.html
 
-## Posts: /featured-posts/
+## Posts: index.html
 
 - Random thoughts: /blog-articles/category-1/
   - Note the date: /blog-articles/category-1/note-the-date/

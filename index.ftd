@@ -73,7 +73,7 @@ Large font size of body content
 --- slides.title-and-2-columns: Regular title of 2 columns slide
 title-font: regular
 body-font: regular
-image: $assets.files.image-placeholder.png
+image: $assets.files.static.image-placeholder.png
 
 Regular size font body here...
 - Lorem ipsum dolor sit amet, consectetur adipiscing elit.
@@ -81,7 +81,7 @@ Regular size font body here...
 --- slides.title-and-2-columns: Medium title of 2 columns slide
 title-font: medium
 body-font: medium
-image: $assets.files.image-placeholder.png
+image: $assets.files.static.image-placeholder.png
 
 Medium size font body here...
 - Lorem ipsum dolor sit amet, consectetur adipiscing elit.
@@ -90,27 +90,27 @@ Medium size font body here...
 title-font: large
 body-font: large
 left-body: true
-image: $assets.files.image-placeholder.png
+image: $assets.files.static.image-placeholder.png
 
 Large size font body here...
 - Lorem ipsum dolor sit amet, consectetur adipiscing elit.
 
 --- slides.title-only: Slide title with regular font
 title-font: regular
-image: $assets.files.image-placeholder.png
+image: $assets.files.static.image-placeholder.png
 
 --- slides.title-only: Slide title with medium font
 title-font: medium
-image: $assets.files.image-placeholder.png
+image: $assets.files.static.image-placeholder.png
 
 --- slides.title-only: Slide title with large font
 title-font: large
-image: $assets.files.image-placeholder.png
+image: $assets.files.static.image-placeholder.png
 
 --- slides.one-column-text: Slide title with regular font
 title-font: regular
 body-font: regular
-image: $assets.files.image-placeholder.png
+image: $assets.files.static.image-placeholder.png
 
 Regular size font body here...
 
@@ -127,7 +127,7 @@ Regular size font body here...
 --- slides.one-column-text: Slide title with medium font
 title-font: medium
 body-font:  medium
-image: $assets.files.image-placeholder.png
+image: $assets.files.static.image-placeholder.png
 
 Medium size font body here...
 
@@ -144,7 +144,7 @@ Medium size font body here...
 --- slides.one-column-text: Slide title with large font
 title-font: large
 body-font:  large
-image: $assets.files.image-placeholder.png
+image: $assets.files.static.image-placeholder.png
 
 Large size font body here...
 
@@ -167,7 +167,7 @@ title-font: large
 title-font: regular
 sub-title-font: regular
 subtitle: Regular font sub title here
-image: $assets.files.image-placeholder.png
+image: $assets.files.static.image-placeholder.png
 
 --- slides.section-title-and-description: Medium font section title
 title-font: medium
@@ -183,19 +183,19 @@ Medium font body text.
 title-font: large
 sub-title-font: large
 subtitle: Large font sub title here
-image: $assets.files.image-placeholder.png
+image: $assets.files.static.image-placeholder.png
 
 --- slides.caption: Regular font slide caption 
 body-font: regular
-image: $assets.files.image-placeholder.png
+image: $assets.files.static.image-placeholder.png
 
 --- slides.caption: Medium font slide caption 
 body-font: medium
-image: $assets.files.image-placeholder.png
+image: $assets.files.static.image-placeholder.png
 
 --- slides.caption: Large font slide caption 
 body-font: large
-image: $assets.files.image-placeholder.png
+image: $assets.files.static.image-placeholder.png
 
 --- slides.big-number: Regular font big slide title
 title-font: regular
@@ -216,7 +216,7 @@ subtitle: Large font slide sub title
 title-font: regular
 sub-title-font: regular
 subtitle: Large font slide sub title
-image: $assets.files.image-placeholder.png
+image: $assets.files.static.image-placeholder.png
 
 Click on `full-screen` mode `squre` icon to see full-screen view. On `full-screen`
 mode to navigate slides press `left` OR `right` arrow keys to move to left OR 
@@ -226,7 +226,7 @@ right slide.
 title-font: medium
 sub-title-font: medium
 subtitle: Large font slide sub title
-image: $assets.files.image-placeholder.png
+image: $assets.files.static.image-placeholder.png
 
 Click on `full-screen` mode `squre` icon to see full-screen view. On `full-screen`
 mode to navigate slides press `left` OR `right` arrow keys to move to left OR 
@@ -236,7 +236,7 @@ right slide.
 title-font: large
 sub-title-font: large
 subtitle: Large font slide sub title
-image: $assets.files.image-placeholder.png
+image: $assets.files.static.image-placeholder.png
 
 Click on `full-screen` mode `squre` icon to see full-screen view. On `full-screen`
 mode to navigate slides press `left` OR `right` arrow keys to move to left OR 
