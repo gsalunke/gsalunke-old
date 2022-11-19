@@ -4,10 +4,16 @@
 zip: github.com/gsalunke/gsalunke/archive/refs/heads/main.zip
 download-base-url: https://raw.githubusercontent.com/gsalunke/gsalunke/main
 
--- fpm.dependency: fifthtry.github.io/doc-site as ds
+-- fpm.dependency: fifthtry.github.io/dash-dash-ds as ds
+-- fpm.dependency: fifthtry.github.io/spider-book-cs as cs
 -- fpm.dependency: fifthtry.github.io/virgil-font
 -- fpm.dependency: fifthtry.github.io/bling as bling
+-- fpm.dependency: fifthtry.github.io/simple-dark-slides as slides
+-- fpm.dependency: fifthtry.github.io/slides as slide
 
+-- fpm.auto-import: cs
+-- fpm.auto-import: slides
+-- fpm.auto-import: slide
 -- fpm.auto-import: ganeshsalunke.com/FPM/config
 -- fpm.auto-import: bling/the-end
 -- fpm.auto-import: bling/divider
@@ -20,4 +26,15 @@ download-base-url: https://raw.githubusercontent.com/gsalunke/gsalunke/main
 -- fpm.sitemap:
 
 # Home: index.html
-# Note the date: /note-the-date/
+
+# Blog: index.html
+
+## Posts: index.html
+
+- Random thoughts: /blog-articles/category-1/
+  - Note the date: /blog-articles/category-1/note-the-date/
+
+
+## Authors: /blog-authors/ganesh/
+
+- Ganesh S Salunke: /blog-authors/ganesh/
