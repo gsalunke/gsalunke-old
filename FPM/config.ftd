@@ -10,7 +10,9 @@
 
 -- ds.site-name: ganeshsalunke.com
 
-
+-- ds.site-logo:
+dark: $assets.files.static.salunke-logo.svg.dark
+light: $assets.files.static.salunke-logo.svg.light
 
 -- fpm.toc-item list ds.footer-toc:
 $processor$: toc
