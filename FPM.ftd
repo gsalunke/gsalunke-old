@@ -9,6 +9,8 @@ download-base-url: https://raw.githubusercontent.com/gsalunke/gsalunke/main
 -- fpm.dependency: fifthtry.github.io/bling as bling
 -- fpm.dependency: fifthtry.github.io/simple-dark-slides as slides
 -- fpm.dependency: fifthtry.github.io/slides as slide
+-- fpm.dependency: fifthtry.github.io/resume
+-- fpm.dependency: fifthtry.github.io/caffeine-resume
 
 -- fpm.auto-import: slides
 -- fpm.auto-import: slide
@@ -36,3 +38,5 @@ download-base-url: https://raw.githubusercontent.com/gsalunke/gsalunke/main
 ## Authors: /blog-authors/ganesh/
 
 - Ganesh S Salunke: /blog-authors/ganesh/
+
+# Resume: /cv/

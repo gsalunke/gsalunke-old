@@ -1,0 +1,143 @@
+-- import: fifthtry.github.io/caffeine-resume as caffeine
+-- import: ganeshsalunke.com/assets 
+-- import: fifthtry.github.io/resume as r
+
+-- r.resume john-doe: 
+
+-- john-doe.basic: Ganesh S Salunke
+label: Frontend Manager
+email: ganesh.salunke@hotmail.com
+phone: +91 9987915037
+url: https://ganeshsalunke.com
+maritalStatus: Married
+dateOfBirth: 16th Nov 1977
+summary: Courteous and enthusiastic, I am interested in IT and everything in its orbit. I am fascinated by web programming, e.g. developing apps and building websites. Recently joined my friend's startup company as a Senior Frontend Manager. I gained 14 years of experience working in the frontend development area. As this area compliments my interest in frontend. I am keen to gain more experience in the field. In 14 years I worked on jQuery, DoJo JS, Bootstrap, React JS, HTML, CSS.
+image: $assets.files.static.ganesh-profile-picture.jpg
+
+-- john-doe.location: 2712 Broadway St
+postalCode: CA 94115
+city: San Francisco
+countryCode: US
+region: California
+
+-- john-doe.profile: Twitter
+username: johndoe
+url: https://twitter.com/john
+
+-- john-doe.profile: Linked-in
+username: johndoe
+url: https://twitter.com/john
+
+-- john-doe.work: Vodafone - VOIS
+position: Manager - frontend
+url: /
+startDate: Oct 2016
+endDate: May 2022
+location: Pune
+summary: VOIS, Pune is Vodafone groups development centre. Worked in CP&S department on Vodafone Start, IDGW. Vodafone Start is a web application shows various offers and services Vodafone offers to their customers. Using Vodafone start web login subscribers can subscribe to Vodafone and their partners services. IDGW is a login and authentication platform for all Vodafone subscribers. IDGW: https://offers.vodafone.com/ Vodafone Start: https://www.vodafone.com/
+
+-- john-doe.work: ITC Infotech
+position: Lead UI Consultant
+url: /
+startDate: Feb, 2016
+endDate: Sep, 2016
+location: Pune
+summary: While in ITC infotech working as consultat for their client site at Vodafone VOIS Pune office, was working on Vodafone Germeny intranet application. 
+highlights: Liking my work in Vodafone. Vodafone appointed me as their payroll employee as Lead Frontend developer in Oct 2016.
+
+-- john-doe.work: e-Zest Solutions
+position: Technical Lead UI
+url: /
+startDate: Aug, 2015
+endDate: Jan, 2016
+location: Pune
+summary: I was at ecommera client site and was working in frontend department where I worked on Jaeger-UK is one of most popular and known brands in UK and overseas markets, and has worked on revamp of UI and functional changes. http://www.jaeger.co.uk/. Philosophy.com is one of most popular and known brand in USA and overseas markets, worked on revamp of UI and functional changes. http://www.philosophy.com
+highlights: Worked on their client site 
+
+
+-- john-doe.volunteer: Lions Club of Nagpur
+position: Lead volunteer
+url: /
+startDate: Jan 2001
+endDate: Dec 2003
+summary: Lions club of Nagpur ayurved launched computer literacy programme and I was district lead volunteer. I helped them to open 25 computer literacy centers in Chandrapur, Yawatmal district.
+highlights: Honored as best center director for educating 300+ students in my Institute of computer science.
+
+
+-- john-doe.education: University of YCMOU, Nasik
+url: https://ycmou.digitaluniversity.ac/
+area: Arts
+studyType: Bachelors
+startDate: May-2009
+endDate: Jan-2012
+score: 7.0
+courses: English, Social Science, Arts and Culture
+
+-- john-doe.award: Best center co-ordinator and director
+date: Aug-2002
+awarder: Lions club of Nagpur - ayurved
+summary: Received for my computer literacy centre Institute of Computer Science.
+
+
+-- john-doe.certificate: P.G.D.C.A.
+date: 1998-1999
+issuer: Nehru Yuva Kendra, Delhi
+url: https://nyks.nic.in/
+
+-- john-doe.certificate: C.C.C.O.
+date: 1999-2000
+issuer: M.S.Board of Vocational Education, Mumbai
+url: http://www.msbve.gov.in/
+
+-- john-doe.certificate: AJILE Crash Course
+date: June - 2019
+issuer: Udemy
+url: https://www.udemy.com/
+
+
+-- john-doe.skill: Frontend
+
+--- keywords: HTML / JSX
+level: expert
+
+--- keywords: SCSS / CSS 
+level: expert
+
+--- keywords: Javascript / React
+level: advance
+
+--- keywords: Bootstrap
+level: advance
+
+
+
+-- john-doe.language: English
+fluency: expert
+
+-- john-doe.language: Hindi
+fluency: beginner
+
+-- john-doe.language: Marathi
+fluency: advance
+
+-- john-doe.interest: Nature
+keyword: Gardening
+
+-- john-doe.interest: Travel
+keyword: Reading
+
+-- john-doe.interest: Food
+keyword: Noodles
+
+
+
+
+
+-- ds.page:
+widthfill: true
+
+
+
+
+-- caffeine.show-resume:
+resume: $john-doe
