@@ -9,3 +9,15 @@
 -- fpm.font-code: $virgil-assets.fonts.virgil
 
 -- ds.site-name: ganeshsalunke.com
+
+
+
+-- fpm.toc-item list ds.footer-toc:
+$processor$: toc
+
+- About me: /
+- My Blog: /
+- Connect with me: /
+
+
+-- ds.copyright: © 2022 GaneshSalunke.com. All rights reserved
