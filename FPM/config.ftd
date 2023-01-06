@@ -1,6 +1,8 @@
 -- import: ds
+-- import: fifthtry.github.io/dash-dash-ds/header as h
 -- import: fifthtry.github.io/virgil-font/assets as virgil-assets
 -- import: fpm
+-- import: ganeshsalunke.com/assets 
 
 -- fpm.font-copy: $virgil-assets.fonts.virgil
 
@@ -8,9 +10,9 @@
 
 -- fpm.font-code: $virgil-assets.fonts.virgil
 
--- ds.site-name: ganeshsalunke.com
+-- h.site-name: ganeshsalunke.com
 
--- ds.site-logo:
+-- h.site-logo:
 dark: $assets.files.static.salunke-logo.svg.dark
 light: $assets.files.static.salunke-logo.svg.light
 
