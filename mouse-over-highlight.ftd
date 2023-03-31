@@ -1,0 +1,28 @@
+- bar:
+
+
+-- component bar:
+integer $active-cell: 0
+
+-- ftd.column:
+
+-- foo: $obj
+idx: $LOOP.COUNTER
+$active: $bar.active-cell
+$loop$: $names as $obj
+
+-- end: ftd.column
+
+-- end: bar
+
+
+-- component foo:
+caption name:
+integer idx:
+integer $active:
+
+-- ftd.text: $foo.name
+$on-mouse-enter$: $ftd.set-integer($a = $foo.active, v = $foo.idx)
+background.solid if { foo.active == foo.idx }: yellow
+
+-- end: foo
